@@ -5,10 +5,10 @@ abstract class Veiculos{
     protected $marca;
     protected $ano;
 
-    public function __constructor($tipo, $marca, $ano){
-        $this->tipo = $tipo;
-        $this->marca = $marca;
-        $this->ano = $ano;
+    public function __construct($dados){
+        $this->tipo = $dados[0];
+        $this->marca = $dados[1];
+        $this->ano = $dados[2];
     }
 
     public function get_tipo(){
@@ -16,20 +16,20 @@ abstract class Veiculos{
     }
 }
 
-class automovel extends Veiculos{
-    public function apresentar(){
-        return "Este objeto guarda os dados de um automóvel de marca ${$this->marca}, do ano ${$this->ano}";
+class Automovel extends Veiculos {
+    public function apresentar() {
+        return "Este objeto guarda os dados de um automóvel de marca {$this->marca}, do ano {$this->ano}";
     }
 }
 
-class aviao extends Veiculos{
-    public function apresentar(){
-        return "Este objeto guarda os dados de um aviao de marca ${$this->marca}, do ano ${$this->ano}";
+class Aviao extends Veiculos {
+    public function apresentar() {
+        return "Este objeto guarda os dados de um avião de marca {$this->marca}, do ano {$this->ano}";
     }
 }
 
-class barco extends Veiculos{
-    public function apresentar(){
-        return "Este objeto guarda os dados de um barco de marca ${$this->marca}, do ano ${$this->ano}";
+class Barco extends Veiculos {
+    public function apresentar() {
+        return "Este objeto guarda os dados de um barco de marca {$this->marca}, do ano {$this->ano}";
     }
 }

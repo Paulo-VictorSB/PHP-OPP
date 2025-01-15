@@ -39,7 +39,7 @@ fclose($file);
     <h1>Automóveis</h1>
     <ul>
     <?php foreach($veiculos as $veiculo): ?>
-        <?php if($veiculo->get_tipo() == 'automovel'):?>
+        <?php if($veiculo->get_tipo() == 'automovel' && $veiculo->get_ano() <= 2015):?>
             <li><?= $veiculo->apresentar() ?></li>
         <?php endif; ?>
     <?php endforeach; ?>
@@ -48,7 +48,7 @@ fclose($file);
     <h1>Aviões</h1>
     <ul>
     <?php foreach($veiculos as $veiculo): ?>
-        <?php if($veiculo->get_tipo() == 'aviao'):?>
+        <?php if($veiculo->get_tipo() == 'aviao' && $veiculo->get_ano() <= 2015):?>
             <li><?= $veiculo->apresentar() ?></li>
         <?php endif; ?>
     <?php endforeach; ?>
@@ -57,7 +57,7 @@ fclose($file);
     <h1>Barcos</h1>
     <ul>
     <?php foreach($veiculos as $veiculo): ?>
-        <?php if($veiculo->get_tipo() == 'barco'):?>
+        <?php if($veiculo->get_tipo() == 'barco' && $veiculo->get_ano() <= 2015):?>
             <li><?= $veiculo->apresentar() ?></li>
         <?php endif; ?>
     <?php endforeach; ?>
