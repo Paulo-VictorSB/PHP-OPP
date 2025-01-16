@@ -1,0 +1,401 @@
+categoria,nome,preco
+Móveis,Estante,3783.52
+Brinquedos,Boneca,2040.08
+Eletrodomésticos,Fogão,1652.27
+Brinquedos,Carrinho de Controle,3342.77
+Eletrônicos,Headphone,3657.67
+Eletrodomésticos,Geladeira,4845.79
+Livros,Ficção Científica,3292.15
+Brinquedos,Quebra-Cabeça,4407.1
+Livros,Biografia,4520.76
+Eletrodomésticos,Geladeira,96.41
+Brinquedos,Carrinho de Controle,2894.54
+Brinquedos,Carrinho de Controle,4397.56
+Eletrônicos,Headphone,2967.51
+Brinquedos,Quebra-Cabeça,4776.92
+Livros,História,1505.23
+Livros,Biografia,1631.94
+Eletrônicos,Câmera,4910.28
+Brinquedos,Boneca,3675.87
+Brinquedos,Carrinho de Controle,3458.13
+Eletrodomésticos,Geladeira,2067.08
+Eletrodomésticos,Máquina de Lavar,2954.25
+Móveis,Cadeira Gamer,1386.35
+Brinquedos,Jogo de Tabuleiro,2929.0
+Eletrodomésticos,Geladeira,972.71
+Eletrodomésticos,Micro-ondas,4233.02
+Brinquedos,Quebra-Cabeça,2970.11
+Brinquedos,Carrinho de Controle,4914.84
+Eletrônicos,Smartphone,4779.57
+Eletrônicos,Headphone,2534.89
+Eletrodomésticos,Liquidificador,3717.38
+Móveis,Sofá,895.69
+Móveis,Mesa de Jantar,3956.12
+Eletrônicos,Tablet,1790.06
+Móveis,Guarda-Roupa,4127.1
+Móveis,Guarda-Roupa,3013.1
+Eletrodomésticos,Geladeira,2576.71
+Eletrônicos,Smartphone,1101.9
+Brinquedos,Carrinho de Controle,3515.01
+Eletrônicos,Notebook,1851.16
+Livros,História,4432.19
+Brinquedos,Lego,3595.07
+Livros,Ficção Científica,4497.11
+Brinquedos,Lego,4768.82
+Brinquedos,Carrinho de Controle,4427.73
+Eletrodomésticos,Geladeira,1398.94
+Livros,Poesia,2545.08
+Eletrônicos,Smartphone,195.84
+Eletrodomésticos,Máquina de Lavar,37.28
+Eletrodomésticos,Liquidificador,3126.58
+Eletrodomésticos,Geladeira,2774.82
+Móveis,Mesa de Jantar,4135.17
+Brinquedos,Quebra-Cabeça,14.41
+Móveis,Guarda-Roupa,2835.46
+Brinquedos,Quebra-Cabeça,3034.04
+Eletrônicos,Headphone,1316.15
+Eletrodomésticos,Liquidificador,3826.77
+Eletrônicos,Smartphone,3505.4
+Eletrodomésticos,Micro-ondas,2317.65
+Brinquedos,Lego,2804.09
+Livros,História,2838.54
+Móveis,Cadeira Gamer,776.09
+Livros,Romance Clássico,4945.44
+Eletrodomésticos,Micro-ondas,2016.03
+Livros,Poesia,4333.46
+Móveis,Guarda-Roupa,4387.97
+Eletrônicos,Smartphone,2424.46
+Móveis,Estante,269.78
+Eletrodomésticos,Liquidificador,1187.02
+Eletrodomésticos,Geladeira,175.42
+Livros,Ficção Científica,2336.13
+Brinquedos,Boneca,2856.37
+Brinquedos,Carrinho de Controle,1470.88
+Eletrodomésticos,Liquidificador,2255.52
+Brinquedos,Boneca,3627.95
+Móveis,Estante,1429.1
+Móveis,Mesa de Jantar,3684.28
+Brinquedos,Lego,258.03
+Livros,Biografia,125.85
+Livros,Poesia,274.55
+Eletrônicos,Notebook,1074.42
+Móveis,Sofá,175.82
+Eletrodomésticos,Liquidificador,3926.56
+Eletrônicos,Tablet,2998.17
+Brinquedos,Quebra-Cabeça,2973.54
+Móveis,Estante,3465.6
+Livros,Ficção Científica,829.07
+Eletrodomésticos,Máquina de Lavar,2791.2
+Eletrodomésticos,Liquidificador,3356.69
+Eletrônicos,Câmera,4852.69
+Móveis,Guarda-Roupa,1689.64
+Brinquedos,Lego,429.15
+Livros,Biografia,900.92
+Eletrônicos,Smartphone,780.33
+Brinquedos,Boneca,1882.14
+Eletrônicos,Notebook,1569.21
+Eletrodomésticos,Fogão,2174.24
+Brinquedos,Lego,927.39
+Eletrônicos,Notebook,1345.56
+Brinquedos,Carrinho de Controle,886.14
+Eletrônicos,Smartphone,581.75
+Móveis,Sofá,996.98
+Livros,Romance Clássico,1592.99
+Eletrodomésticos,Fogão,3782.24
+Livros,Romance Clássico,747.05
+Móveis,Estante,2316.59
+Eletrônicos,Câmera,3589.23
+Móveis,Sofá,2861.87
+Móveis,Mesa de Jantar,1910.49
+Móveis,Guarda-Roupa,906.51
+Livros,Romance Clássico,59.67
+Brinquedos,Jogo de Tabuleiro,3771.24
+Eletrônicos,Notebook,4855.36
+Brinquedos,Jogo de Tabuleiro,3053.66
+Móveis,Cadeira Gamer,1179.33
+Brinquedos,Jogo de Tabuleiro,1533.53
+Móveis,Guarda-Roupa,892.99
+Móveis,Sofá,132.55
+Eletrônicos,Smartphone,4460.82
+Livros,Biografia,3258.97
+Livros,Romance Clássico,58.14
+Móveis,Estante,462.59
+Brinquedos,Jogo de Tabuleiro,764.46
+Móveis,Mesa de Jantar,94.48
+Eletrônicos,Notebook,4415.77
+Móveis,Guarda-Roupa,3675.91
+Móveis,Cadeira Gamer,519.14
+Eletrônicos,Headphone,428.19
+Livros,Biografia,568.17
+Brinquedos,Quebra-Cabeça,2525.88
+Eletrodomésticos,Fogão,3879.49
+Eletrodomésticos,Geladeira,3311.51
+Brinquedos,Carrinho de Controle,3603.69
+Eletrônicos,Câmera,3251.1
+Brinquedos,Quebra-Cabeça,3833.43
+Eletrodomésticos,Micro-ondas,4645.55
+Brinquedos,Carrinho de Controle,1307.18
+Móveis,Estante,4222.07
+Eletrônicos,Tablet,3477.25
+Eletrônicos,Headphone,4617.66
+Eletrodomésticos,Geladeira,1035.0
+Livros,Romance Clássico,2536.49
+Brinquedos,Quebra-Cabeça,1354.78
+Livros,Romance Clássico,4949.57
+Eletrodomésticos,Liquidificador,2239.35
+Livros,História,1197.76
+Móveis,Cadeira Gamer,4808.45
+Eletrônicos,Tablet,535.88
+Eletrônicos,Headphone,2550.75
+Eletrodomésticos,Fogão,4447.92
+Eletrodomésticos,Geladeira,3101.98
+Móveis,Guarda-Roupa,3931.04
+Brinquedos,Carrinho de Controle,2767.65
+Brinquedos,Lego,4816.53
+Eletrodomésticos,Fogão,1595.51
+Brinquedos,Boneca,4493.06
+Eletrodomésticos,Máquina de Lavar,1460.36
+Brinquedos,Jogo de Tabuleiro,2261.69
+Brinquedos,Quebra-Cabeça,2579.43
+Livros,História,1097.27
+Móveis,Estante,4945.79
+Eletrônicos,Headphone,1228.96
+Brinquedos,Quebra-Cabeça,2020.37
+Eletrônicos,Tablet,2847.36
+Eletrônicos,Headphone,941.96
+Eletrônicos,Smartphone,1061.17
+Eletrodomésticos,Máquina de Lavar,3871.62
+Eletrônicos,Smartphone,899.65
+Eletrônicos,Smartphone,4615.56
+Eletrodomésticos,Micro-ondas,255.13
+Brinquedos,Carrinho de Controle,1183.42
+Eletrônicos,Headphone,4373.39
+Eletrodomésticos,Máquina de Lavar,1793.41
+Móveis,Sofá,205.45
+Eletrônicos,Notebook,3734.47
+Eletrônicos,Notebook,51.18
+Livros,História,4233.31
+Móveis,Cadeira Gamer,3398.61
+Eletrodomésticos,Máquina de Lavar,4263.83
+Móveis,Mesa de Jantar,2553.54
+Móveis,Guarda-Roupa,2401.44
+Brinquedos,Quebra-Cabeça,2458.22
+Eletrônicos,Smartphone,4798.17
+Brinquedos,Boneca,4130.08
+Livros,História,3774.75
+Brinquedos,Jogo de Tabuleiro,2357.13
+Eletrônicos,Tablet,856.57
+Eletrodomésticos,Fogão,926.61
+Eletrodomésticos,Fogão,3100.91
+Brinquedos,Lego,2524.28
+Livros,História,3403.36
+Brinquedos,Boneca,3528.08
+Livros,História,3642.73
+Móveis,Sofá,4034.62
+Brinquedos,Carrinho de Controle,3804.83
+Eletrônicos,Smartphone,4390.84
+Móveis,Guarda-Roupa,3866.02
+Brinquedos,Lego,3013.9
+Livros,Ficção Científica,4869.71
+Eletrônicos,Tablet,102.04
+Livros,Poesia,980.77
+Eletrodomésticos,Liquidificador,4077.35
+Móveis,Estante,4291.34
+Brinquedos,Lego,2004.37
+Eletrônicos,Smartphone,1584.36
+Eletrodomésticos,Micro-ondas,3071.84
+Eletrodomésticos,Máquina de Lavar,4478.1
+Brinquedos,Jogo de Tabuleiro,554.58
+Móveis,Cadeira Gamer,337.3
+Brinquedos,Carrinho de Controle,1024.82
+Eletrônicos,Notebook,1245.32
+Livros,Ficção Científica,858.59
+Eletrônicos,Headphone,4697.22
+Móveis,Guarda-Roupa,1325.16
+Móveis,Cadeira Gamer,2832.93
+Móveis,Guarda-Roupa,2901.5
+Brinquedos,Carrinho de Controle,3340.46
+Eletrodomésticos,Máquina de Lavar,272.86
+Eletrodomésticos,Geladeira,1427.8
+Brinquedos,Lego,4034.35
+Brinquedos,Quebra-Cabeça,4064.14
+Livros,Ficção Científica,4977.52
+Livros,História,2097.74
+Eletrodomésticos,Geladeira,2774.88
+Eletrodomésticos,Micro-ondas,3164.4
+Livros,Romance Clássico,2933.15
+Brinquedos,Boneca,1916.18
+Livros,Biografia,534.03
+Eletrônicos,Câmera,4453.69
+Eletrônicos,Tablet,4875.03
+Eletrodomésticos,Máquina de Lavar,3406.93
+Livros,Poesia,3822.96
+Eletrodomésticos,Fogão,3485.65
+Brinquedos,Quebra-Cabeça,3476.58
+Eletrodomésticos,Fogão,3552.05
+Eletrônicos,Smartphone,936.81
+Eletrônicos,Tablet,3763.69
+Brinquedos,Boneca,3107.08
+Brinquedos,Jogo de Tabuleiro,475.11
+Eletrodomésticos,Micro-ondas,1780.79
+Móveis,Estante,258.48
+Móveis,Estante,578.53
+Eletrodomésticos,Máquina de Lavar,711.38
+Eletrodomésticos,Geladeira,705.73
+Livros,História,2024.77
+Móveis,Estante,1629.84
+Eletrônicos,Smartphone,3045.26
+Eletrônicos,Câmera,384.4
+Móveis,Sofá,1788.28
+Livros,Poesia,3520.37
+Eletrônicos,Câmera,4832.81
+Livros,Ficção Científica,1327.78
+Brinquedos,Boneca,4170.84
+Eletrônicos,Headphone,4883.34
+Eletrodomésticos,Fogão,4912.55
+Eletrônicos,Smartphone,4145.59
+Eletrônicos,Tablet,4017.04
+Eletrônicos,Notebook,3888.99
+Brinquedos,Boneca,39.75
+Móveis,Sofá,2546.49
+Livros,Romance Clássico,1181.38
+Livros,Ficção Científica,1766.53
+Brinquedos,Quebra-Cabeça,612.42
+Eletrodomésticos,Máquina de Lavar,3058.23
+Eletrodomésticos,Liquidificador,968.33
+Eletrodomésticos,Geladeira,2786.66
+Livros,História,4205.03
+Livros,Poesia,60.46
+Eletrônicos,Headphone,1912.57
+Móveis,Guarda-Roupa,4703.92
+Eletrônicos,Notebook,2650.77
+Brinquedos,Boneca,3916.27
+Eletrodomésticos,Micro-ondas,1746.66
+Livros,Romance Clássico,1160.91
+Eletrônicos,Câmera,1588.56
+Móveis,Mesa de Jantar,2156.78
+Brinquedos,Jogo de Tabuleiro,3856.53
+Eletrônicos,Câmera,2451.57
+Eletrodomésticos,Geladeira,1389.23
+Brinquedos,Boneca,3965.75
+Brinquedos,Quebra-Cabeça,1043.67
+Brinquedos,Jogo de Tabuleiro,1861.17
+Eletrodomésticos,Máquina de Lavar,1559.81
+Livros,Romance Clássico,1293.39
+Livros,Biografia,2237.32
+Eletrodomésticos,Geladeira,126.27
+Eletrônicos,Headphone,3253.92
+Móveis,Sofá,4833.24
+Móveis,Mesa de Jantar,4604.36
+Brinquedos,Boneca,365.18
+Eletrodomésticos,Fogão,2804.16
+Eletrodomésticos,Máquina de Lavar,73.44
+Eletrônicos,Notebook,637.21
+Brinquedos,Lego,3664.58
+Móveis,Estante,1279.32
+Livros,Romance Clássico,4451.76
+Eletrônicos,Notebook,2066.55
+Eletrodomésticos,Fogão,625.82
+Eletrodomésticos,Liquidificador,3062.22
+Eletrodomésticos,Geladeira,4036.27
+Móveis,Mesa de Jantar,4725.78
+Eletrodomésticos,Fogão,2880.49
+Eletrônicos,Tablet,3423.18
+Eletrodomésticos,Fogão,2857.4
+Móveis,Cadeira Gamer,4244.31
+Eletrodomésticos,Fogão,2933.57
+Brinquedos,Carrinho de Controle,4485.13
+Livros,Biografia,4754.84
+Livros,Biografia,890.73
+Brinquedos,Quebra-Cabeça,1568.13
+Brinquedos,Boneca,3642.14
+Móveis,Sofá,2447.8
+Eletrônicos,Câmera,73.82
+Eletrônicos,Notebook,652.84
+Eletrodomésticos,Geladeira,3804.33
+Eletrodomésticos,Geladeira,4136.93
+Brinquedos,Carrinho de Controle,1308.35
+Eletrodomésticos,Máquina de Lavar,2365.68
+Eletrônicos,Notebook,2838.69
+Eletrodomésticos,Micro-ondas,695.24
+Brinquedos,Carrinho de Controle,1315.38
+Móveis,Guarda-Roupa,1555.36
+Livros,Romance Clássico,2710.3
+Brinquedos,Quebra-Cabeça,984.02
+Brinquedos,Jogo de Tabuleiro,1746.4
+Eletrônicos,Headphone,4141.66
+Eletrodomésticos,Micro-ondas,1636.11
+Móveis,Cadeira Gamer,3137.9
+Eletrodomésticos,Geladeira,733.1
+Livros,História,3176.5
+Brinquedos,Jogo de Tabuleiro,169.75
+Eletrônicos,Headphone,970.66
+Livros,Ficção Científica,137.75
+Eletrodomésticos,Micro-ondas,181.43
+Brinquedos,Boneca,2643.57
+Eletrodomésticos,Máquina de Lavar,4923.81
+Brinquedos,Boneca,3736.76
+Livros,Biografia,3914.84
+Brinquedos,Quebra-Cabeça,2799.04
+Móveis,Mesa de Jantar,2097.65
+Móveis,Sofá,3746.45
+Móveis,Estante,3678.94
+Brinquedos,Boneca,2563.43
+Brinquedos,Lego,3261.12
+Móveis,Sofá,715.73
+Eletrônicos,Notebook,4575.29
+Brinquedos,Boneca,3767.84
+Eletrodomésticos,Geladeira,1206.87
+Brinquedos,Jogo de Tabuleiro,4014.72
+Móveis,Sofá,3529.92
+Eletrodomésticos,Liquidificador,3490.28
+Eletrodomésticos,Micro-ondas,526.68
+Eletrônicos,Notebook,1341.08
+Livros,Biografia,2697.87
+Brinquedos,Carrinho de Controle,4378.46
+Móveis,Estante,3626.35
+Brinquedos,Boneca,3293.89
+Eletrônicos,Headphone,2249.75
+Livros,Poesia,3176.38
+Livros,Poesia,2231.32
+Eletrodomésticos,Fogão,4367.78
+Eletrônicos,Notebook,1425.39
+Eletrônicos,Headphone,3396.1
+Móveis,Guarda-Roupa,1125.3
+Brinquedos,Lego,2468.61
+Livros,Ficção Científica,800.73
+Brinquedos,Jogo de Tabuleiro,1939.23
+Eletrônicos,Headphone,4964.03
+Móveis,Guarda-Roupa,607.26
+Livros,Ficção Científica,2244.94
+Brinquedos,Quebra-Cabeça,2068.21
+Livros,Romance Clássico,1508.23
+Livros,Poesia,2866.62
+Eletrônicos,Headphone,2174.6
+Eletrônicos,Notebook,2218.36
+Livros,Ficção Científica,603.74
+Móveis,Mesa de Jantar,4756.08
+Móveis,Cadeira Gamer,3358.22
+Eletrônicos,Câmera,1078.06
+Móveis,Sofá,3427.35
+Eletrodomésticos,Geladeira,1538.19
+Eletrônicos,Notebook,118.47
+Brinquedos,Boneca,3261.48
+Eletrodomésticos,Liquidificador,1049.23
+Móveis,Cadeira Gamer,3453.75
+Eletrônicos,Headphone,3442.32
+Brinquedos,Lego,2032.65
+Brinquedos,Jogo de Tabuleiro,1011.64
+Eletrodomésticos,Máquina de Lavar,2847.8
+Eletrônicos,Smartphone,4095.54
+Móveis,Sofá,3891.53
+Móveis,Sofá,248.12
+Brinquedos,Lego,2136.55
+Móveis,Guarda-Roupa,3084.56
+Brinquedos,Jogo de Tabuleiro,464.93
+Eletrodomésticos,Máquina de Lavar,4234.02
+Livros,Romance Clássico,1364.26
+Móveis,Cadeira Gamer,1571.18
+Móveis,Guarda-Roupa,1053.12
+Eletrodomésticos,Liquidificador,3569.32
+Eletrônicos,Câmera,1709.93
